@@ -87,7 +87,6 @@ body{
 
 
 .infomation{
-    background-color: saddlebrown;
     font-family: "Roboto-Condensed-Regular";
     font-size: 20px;
     color: var(--color-1);
@@ -95,7 +94,6 @@ body{
     margin-right: 350px;
 }
 .information-titulo{
-    background-color: yellowgreen;
     margin-left: 100px;
     margin-right: 490px;
 }
@@ -124,8 +122,12 @@ body{
 }
 
 .information-dog a img {
-    background-color: yellow;
     width: 24px; 
     height: auto;
+}
+
+
+.how-to-play{
+    color: var(--color-1);
 }
 
